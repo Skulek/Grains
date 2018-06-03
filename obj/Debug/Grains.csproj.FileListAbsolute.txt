@@ -1,0 +1,11 @@
+C:\Users\Piotr Dziubek\Downloads\Grains\Grains\bin\Debug\Grains.exe.config
+C:\Users\Piotr Dziubek\Downloads\Grains\Grains\bin\Debug\Grains.exe
+C:\Users\Piotr Dziubek\Downloads\Grains\Grains\bin\Debug\Grains.pdb
+C:\Users\Piotr Dziubek\Downloads\Grains\Grains\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Piotr Dziubek\Downloads\Grains\Grains\obj\Debug\Grains.csprojAssemblyReference.cache
+C:\Users\Piotr Dziubek\Downloads\Grains\Grains\obj\Debug\Grains.Form1.resources
+C:\Users\Piotr Dziubek\Downloads\Grains\Grains\obj\Debug\Grains.csproj.GenerateResource.cache
+C:\Users\Piotr Dziubek\Downloads\Grains\Grains\obj\Debug\Grains.csproj.CoreCompileInputs.cache
+C:\Users\Piotr Dziubek\Downloads\Grains\Grains\obj\Debug\Grains.csproj.CopyComplete
+C:\Users\Piotr Dziubek\Downloads\Grains\Grains\obj\Debug\Grains.exe
+C:\Users\Piotr Dziubek\Downloads\Grains\Grains\obj\Debug\Grains.pdb
